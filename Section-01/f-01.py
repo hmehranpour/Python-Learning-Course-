@@ -1,5 +1,0 @@
-print('hello world  ')
-print(1)
-print(222)
-print(pull)
-print(1)
