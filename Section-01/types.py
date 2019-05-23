@@ -17,3 +17,5 @@ list_2 = {111, 222, 333, 'aaa', "bbb", 'ccc'}
 print(list_2, type(list_2))
 dict_1 = {1111: 'aaaa', 2222: "bbbb", 3333: 'cccc'}
 print(dict_1, type(dict_1))
+none_1 = None
+print(none_1, type(none_1))# none_2 = none character 'n' must be capitalized
