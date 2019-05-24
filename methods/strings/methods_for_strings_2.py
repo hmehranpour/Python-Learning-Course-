@@ -1,0 +1,13 @@
+new_string = 'my name is  hamid Mehranpour i am a civil  engineering'
+method_1 = new_string.capitalize()
+print('capitalized : ', method_1)
+method_2 = new_string.upper()
+print('upper : ', method_2)
+method_3 = new_string.swapcase()
+print('swapcase : ', method_3)
+method_4 = new_string.isdigit()
+print('isdigit : ', method_4)
+method_5 = new_string.isalpha()
+print('isalpha : ', method_5)
+method_6 = new_string.title()
+print('title : ', method_6)

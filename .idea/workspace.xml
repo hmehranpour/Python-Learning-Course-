@@ -2,14 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfbed937-c2fd-4a9c-8f2e-6731fe66c573" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section-02/and_or_not.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section-02/conditional.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section-02/exer_1_and_not_or.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section-02/list_tupel_operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section-02/math_operatos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section-02/string_operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section-02/operatos.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/mark down/mark_down.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/strings/methods_for_strings_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/strings/methods_for_strings_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/strings/methods_for_strings_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/strings/methods_for_strings_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/strings/methods_for_strings_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/tupel/methods_for_tupel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section-02/and_or_not.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section-02/conditionals_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section-02/conditional.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section-02/conditionals_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section-02/list_tupel_operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section-02/operatos_for_list_and_tupel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section-02/math_operatos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section-02/operatos_for_math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section-02/string_operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section-02/operatos_for_strings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,20 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Section-02/and_or_not.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Section-02/exer_1_and_not_or.py">
+        <entry file="file://$PROJECT_DIR$/methods/strings/methods_for_strings_5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            <state relative-caret-position="156">
+              <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -91,12 +87,22 @@
         <option value="$PROJECT_DIR$/Section-02/conditional.py" />
         <option value="$PROJECT_DIR$/Section-02/and_or_not.py" />
         <option value="$PROJECT_DIR$/Section-02/exer_1_and_not_or.py" />
+        <option value="$PROJECT_DIR$/Section-02/methods_with_..py" />
+        <option value="$PROJECT_DIR$/Section-02/methods_for_tupel.py" />
+        <option value="$PROJECT_DIR$/mark down/mark_down.md" />
+        <option value="$PROJECT_DIR$/Section-02/methods_for_strings.py" />
+        <option value="$PROJECT_DIR$/methods/strings/methods_for_strings.py" />
+        <option value="$PROJECT_DIR$/methods/strings/methods_for_strings_3.py" />
+        <option value="$PROJECT_DIR$/methods/strings/methods_for_strings_2.py" />
+        <option value="$PROJECT_DIR$/methods/strings/methods_for_strings_1.py" />
+        <option value="$PROJECT_DIR$/methods/strings/methods_for_strings_4.py" />
+        <option value="$PROJECT_DIR$/methods/strings/methods_for_strings_5.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-155" />
-    <option name="y" value="-13" />
+    <option name="x" value="30" />
+    <option name="y" value="-30" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
@@ -111,6 +117,17 @@
             <path>
               <item name="Python-Learning-Course-" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Learning-Course-" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Learning-Course-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Learning-Course-" type="462c0819:PsiDirectoryNode" />
+              <item name="methods" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Learning-Course-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Learning-Course-" type="462c0819:PsiDirectoryNode" />
+              <item name="methods" type="462c0819:PsiDirectoryNode" />
+              <item name="strings" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python-Learning-Course-" type="b2602c69:ProjectViewProjectNode" />
@@ -142,15 +159,20 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Section-01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/methods/strings" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Negar\PycharmProjects\Python-Learning-Course-\methods\tupel" />
+      <recent name="C:\Users\Negar\PycharmProjects\Python-Learning-Course-\methods\strings" />
+      <recent name="C:\Users\Negar\PycharmProjects\Python-Learning-Course-\methods" />
+      <recent name="C:\Users\Negar\PycharmProjects\Python-Learning-Course-\Section-02\methods" />
       <recent name="C:\Users\Negar\PycharmProjects\Python-Learning-Course-\Section-01" />
-      <recent name="C:\Users\Negar\PycharmProjects\Python-Learning-Course-\Section-01\exercise" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Negar\PycharmProjects\Python-Learning-Course-\methods\strings" />
+      <recent name="C:\Users\Negar\PycharmProjects\Python-Learning-Course-\Section-02\methods\strings" />
       <recent name="C:\Users\Negar\PycharmProjects\Python-Learning-Course-\Section-01" />
     </key>
   </component>
@@ -166,8 +188,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.and_or_not">
-    <configuration name="and_or_not" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.methods_for_strings_5">
+    <configuration name="methods_for_strings_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Learning-Course-" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,11 +197,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section-02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/methods/strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section-02/and_or_not.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/methods/strings/methods_for_strings_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="conditional" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="methods_for_strings_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Learning-Course-" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,11 +218,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section-02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/methods/strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section-02/conditional.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/methods/strings/methods_for_strings_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +231,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_tupel_operators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="methods_for_strings_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Learning-Course-" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,11 +239,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section-02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/methods/strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section-02/list_tupel_operators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/methods/strings/methods_for_strings_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,7 +252,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="math_operatos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="methods_for_strings_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Learning-Course-" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,11 +260,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section-02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/methods/strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section-02/math_operatos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/methods/strings/methods_for_strings_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,7 +273,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string_operators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="methods_for_strings_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Learning-Course-" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -259,11 +281,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section-02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/methods/strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section-02/string_operators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/methods/strings/methods_for_strings_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,11 +296,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.and_or_not" />
-        <item itemvalue="Python.conditional" />
-        <item itemvalue="Python.list_tupel_operators" />
-        <item itemvalue="Python.string_operators" />
-        <item itemvalue="Python.math_operatos" />
+        <item itemvalue="Python.methods_for_strings_5" />
+        <item itemvalue="Python.methods_for_strings_4" />
+        <item itemvalue="Python.methods_for_strings_2" />
+        <item itemvalue="Python.methods_for_strings_3" />
+        <item itemvalue="Python.methods_for_strings_1" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +343,21 @@
       <option name="project" value="LOCAL" />
       <updated>1558619575650</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="section 2 rev2">
+      <created>1558626918468</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1558626918468</updated>
+    </task>
+    <task id="LOCAL-00006" summary="section 2 rev3">
+      <created>1558628423157</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1558628423157</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -335,7 +371,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4957806" visible="true" weight="0.45046234" />
       <window_info id="Structure" order="1" sideWeight="0.5042194" side_tool="true" weight="0.22192867" />
@@ -347,7 +382,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32956153" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32956153" />
@@ -375,12 +410,40 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello" />
     <MESSAGE value="section 1 reviewed" />
     <MESSAGE value="section 1 rev1" />
     <MESSAGE value="section 2 rev1" />
-    <option name="LAST_COMMIT_MESSAGE" value="section 2 rev1" />
+    <MESSAGE value="section 2 rev2" />
+    <MESSAGE value="section 2 rev3" />
+    <option name="LAST_COMMIT_MESSAGE" value="section 2 rev3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Section-02/1.py" />
@@ -452,45 +515,104 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Section-02/math_operatos.py">
+    <entry file="file://$PROJECT_DIR$/Section-02/operatos_for_math.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="22" selection-end-line="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Section-02/string_operators.py">
+    <entry file="file://$PROJECT_DIR$/Section-02/operatos_for_strings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Section-02/list_tupel_operators.py">
+    <entry file="file://$PROJECT_DIR$/Section-02/operatos_for_list_and_tupel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="356">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Section-02/conditional.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section-02/and_or_not.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Section-02/exer_1_and_not_or.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        <state relative-caret-position="330">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section-02/conditionals_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section-02/conditionals_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/methods/tupel/methods_for_tupel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mark down/mark_down.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="183">
+            <caret line="15" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section-02/methods/methods_for_strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/methods/strings/methods_for_strings_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/methods/strings/methods_for_strings_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/methods/strings/methods_for_strings_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/methods/strings/methods_for_strings_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/methods/strings/methods_for_strings_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
         </state>
       </provider>
     </entry>
